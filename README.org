@@ -1,0 +1,19 @@
+#+title: Pacman in J2ME
+#+startup: hidestars
+
+/This is my old student project from 2010./
+
+This is a pacman clone built in few days as a student project for Simulations and Control of Discrete Processes course.
+
+The project was oriented to stay as close to the original look&feel of Pacman as possible.
+
+It features a map editor written in Excel, basic AI and some cheats available via Konami code.
+
+I run the project on Sony Ericsson K800i.
+
+Some screnshots:
+
+[[file:screenshots/scr-mainmenu.png]][[ file:screenshots/scr-gamestart.png]] [[file:screenshots/scr-gameplay.png]] [[file::screenshots/scr-ghosteater.png]]
+
+[[file:screenshots/pacedit.png][file:screenshots/pacedit-450.png]]
+
