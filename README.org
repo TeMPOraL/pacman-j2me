@@ -13,7 +13,7 @@ I run the project on Sony Ericsson K800i.
 
 Some screnshots:
 
-[[file:screenshots/scr-mainmenu.png]][[ file:screenshots/scr-gamestart.png]] [[file:screenshots/scr-gameplay.png]] [[file::screenshots/scr-ghosteater.png]]
+[[file:screenshots/scr-mainmenu.png]] [[file:screenshots/scr-gamestart.png]] [[file:screenshots/scr-gameplay.png]] [[file:screenshots/scr-ghosteater.png]]
 
 [[file:screenshots/pacedit.png][file:screenshots/pacedit-450.png]]
 
